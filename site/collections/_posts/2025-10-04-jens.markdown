@@ -1,0 +1,38 @@
+---
+# date: 2018-11-13 12:01:35
+title: Prof. Dr.-Ing. habil. Jens-Uwe Repke
+description: >-
+  Prof. Dr.-Ing. Jens-Uwe Repke ist Leiter des Fachgebiets Dynamik und Betrieb technischer Anlagen an der TU Berlin. Die Verbindung von optimalem Design und Betrieb nachhaltiger Prozesse der Chemie- und Energietechnik ist fachlicher Kern seiner Forschungsarbeiten, wobei ihm die enge Verzahnung von theoretischer und experimenteller Forschung sehr wichtig ist. Er hat an der TU Berlin seine wissenschaftliche Ausbildung erhalten und war Professor für „Thermische Trenntechnik“ an der TU Bergakademie Freiberg. Durch verschiedene Forschungsaufenthalte und vielfältige Kooperationsprojekte ist er in seinem Wissenschaftsgebiet bestens international vernetzt.
+
+image: /images/jens.jpg
+---
+
+<a href="https://www.tu.berlin/dbta/">Fachgebietswebseite</a> / <a href="https://www.linkedin.com/company/tuberlin-dbta/">LinkedIn</a>
+
+Jens-Uwe Repke ist Leiter des Fachgebiets Dynamik und Betrieb technischer Anlagen an der Technischen Universität Berlin.
+
+Die Verbindung von optimalem Design und Betrieb für nachhaltige Prozesse der Chemie- und Energietechnik ist fachlicher Kern der Forschungsarbeiten von Professor Jens-Uwe Repke. Hierfür entwickelt er Modelle und Methoden, welche experimentell in verschiedenen Größenskalen evaluiert und erprobt werden. Ein wesentliches aktuelles Anwendungsgebiet ist die Abtrennung von klimaschädlichen Gasen wie CO2 aus industriellen Punktquellen und die Erschließung von Nutzungspfaden für das abgetrennte CO2. Dabei bearbeitet er mit seinem Team sehr grundlagenorientierte Forschungsprojekte ebenso wie vielfältige Forschungskooperationen mit Anwendern aus der Praxis. 
+
+Bevor er 2016 zurück an die TU Berlin wechselte, hat er an der TU Berlin studiert, promoviert und habilitiert und war mehrere Jahre Professor und Institutsleiter an der TU Bergakademie Freiberg. Forschungsaufenthalte in London und Toulouse, sowie viele Reisen im Rahmen von Lehr- und Forschungskooperationen, wie nach China und Südkorea, haben weiter sein bisheriges wissenschaftliches Wirken geprägt. Hier konnte er auch wertvolle Lehrerfahrungen in einem internationalen Kontext sammeln. 
+Als Nachwuchswissenschaftler erhielt Jens-Uwe Repke den renommierten Arnold-Eucken Preis. 
+
+Weiterhin ist er Gastprofessor an der Zhejiang University, Hangzhou China und u.a. Mitglied des Wissenschaftlichen Beirats „Chemie und Prozesstechnik“ der Bundesanstalt für Materialforschung und -prüfung (BAM). Außerdem ist er gewählter DFG-Fachkollegiat für das Fach „Systemverfahrenstechnik“ und engagiert sich auf europäischer Ebene u.a. als Vorsitzender der Working Party „Fluid Separations“ innerhalb der EFCE (European Federation of Chemical Engineering). 
+
+## Arbeits- und Forschungsschwerpunkte
+- Nachhaltige Prozessentwicklung, optimale Prozessführung, Prozessanalyse
+- Modellierung, Simulation und experimentelle Analyse reaktiver und hybrider Trennprozesse
+- Intensivierte Prozesse: Membranreaktoren, rotierende Trennmaschinen, reaktive Absorption und Destillation
+- Aufklärung des Stoffübergangs und der Fluiddynamik auf komplexen Oberflächenstrukturen
+
+## Zitate – Prof. Dr.-Ing. Jens-Uwe Repke
+>„Eine nachhaltige Verfahrenstechnik, eine Grüne Chemie, sind unerlässliche Bausteine unserer Gesellschaft und spannende Forschungsgebiete, auf denen es noch viel zu tun gibt.“
+
+>„Exzellente Forschung und Lehre gehören für mich an einer Universität zusammen. Dabei besitzen beide den gleichen Stellenwert. Dies sollte auch so gesehen und wahrgenommen werden, was leider nicht immer der Fall ist.“
+
+>„Die TU Berlin ist eine spannende, internationale Technische Universität mit vielen klugen, engagierten und kreativen Köpfen. Leider haben wir im Moment nicht die sichtbaren Erfolge, die unserem Potential entsprechen. Dies müssen wir wieder ändern, dürfen uns nicht von der Spardebatte lähmen lassen, müssen die strukturelle Hemmnisse endlich merkbar angehen und uns noch stärker innerhalb der TU Berlin vernetzen. Hierfür gilt es Bedingungen, Lösungen und Freiräume zu schaffen.“ 
+
+>„Wir wollen die besten Köpfe (von Studierenden über Auszubildenden bis hin zu den Professor:innen) für die TU Berlin gewinnen, dafür müssen wir eine moderne Universität werden, in der Prozesse schnell und effizient ablaufen.“
+
+>„Die Fachgebiete müssen wieder stärker in den Mittelpunkt gestellt werden. Sie sind der Innovationsmotor der TU Berlin mit Ihren Studierenden, MTSV, WM’S und Professor:innen – diese benötigen moderne und funktionierende Randbedingungen.“
+
+>„Als <b>Technische</b> Universität sind wir im engen Austausch und Dialog mit der Industrie; dieser muss fair und auf Augenhöhe erfolgen. Ergebnisse gemeinsamer Forschungsprojekte erbringen wichtige Beiträge zu den aktuellen und dringenden Fragen unserer Zeit. Neben dieser sehr anwendungsnahen Forschung, muss und ist die Grundlagenforschung wichtiger Bestandteil der TU Berlin, beides muss gestärkt und gefördert werden.“

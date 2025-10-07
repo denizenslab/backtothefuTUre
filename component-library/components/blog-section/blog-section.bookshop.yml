@@ -2,7 +2,7 @@
 spec:
   structures:
     - content_blocks
-  label: Blog
+  label: Team
   description: Blog Section with heading, a image, a description and a link
   icon: wysiwyg
   tags:
@@ -21,7 +21,7 @@ preview:
   description_html: Vonge blog features productivity, tips, inspiration and
     strategies for massive profits. Find out how to set up a successful blog or
     how to make yours even better!
-  link_url: /blog
+  link_url: /programm
 
 # Any extra CloudCannon inputs configuration to apply to the blueprint
 _inputs: {}

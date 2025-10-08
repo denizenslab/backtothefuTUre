@@ -5337,9 +5337,11 @@ Run %cnpx @bookshop/up@latest%c in your root directory to upgrade all Bookshop d
             <div class="{{c}}__subtitle">
               <span id="ityped"></span>
             </div>
+            <div>
             <p>
               {{ include.newsletter_text }}
             </p>
+            </div>
           </div>
 
           <!-- <form class="{{c}}__form validate" action="//{{ include.newsletter_identifier }}" -->

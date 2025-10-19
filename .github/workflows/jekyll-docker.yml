@@ -1,4 +1,4 @@
-name: Build and Deploy Jekyll (Test)
+name: Build and Deploy Jekyll (Test with Bookshop Assets)
 
 on:
   push:
@@ -12,18 +12,31 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      # Install Ruby for Jekyll
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: 3.1
           bundler-cache: true
 
+      # Install Node for Bookshop + npm build tools
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
       - name: Install dependencies
         run: |
           cd site
           bundle install
+          npm install
 
-      - name: Build Jekyll site with Bookshop
+      - name: Build Bookshop components
+        run: |
+          cd site
+          npx @cloudcannon/bookshop build
+
+      - name: Build Jekyll site
         run: |
           cd site
           JEKYLL_ENV=production bundle exec jekyll build
@@ -34,4 +47,4 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./site/_site
           publish_branch: gh-pages-test
-          commit_message: "🧪 Test build from GitHub Actions"
+          commit_message: "🧪 Test build with Bookshop assets"

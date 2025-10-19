@@ -13,11 +13,11 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Build the site in the jekyll/builder container
+      - name: Build the Jekyll site (in site folder)
         run: |
           docker run \
-            -v ${{ github.workspace }}:/srv/jekyll \
-            -v ${{ github.workspace }}/_site:/srv/jekyll/_site \
+            -v ${{ github.workspace }}/site:/srv/jekyll \
+            -v ${{ github.workspace }}/site/_site:/srv/jekyll/_site \
             jekyll/builder:latest /bin/bash -c "
               chmod -R 777 /srv/jekyll &&
               gem install jekyll-bookshop &&

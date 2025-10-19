@@ -1,8 +1,8 @@
-name: Build and Deploy Jekyll (Stable Image)
+name: Build and Deploy Jekyll (Bookshop Preview)
 
 on:
   push:
-    branches: [ "main" ]
+    branches: [ "main" ] 
 
 jobs:
   build-deploy-test:
@@ -12,25 +12,36 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Build Jekyll site with stable Ruby image
-        run: |
-          docker run --rm \
-            -v ${{ github.workspace }}/site:/srv/jekyll \
-            -v ${{ github.workspace }}/site/_site:/srv/jekyll/_site \
-            ruby:3.2-bullseye /bin/bash -c "
-              apt-get update &&
-              apt-get install -y build-essential nodejs npm git &&
-              gem install bundler jekyll ffi &&
-              cd /srv/jekyll &&
-              bundle config set path 'vendor/bundle' &&
-              bundle install &&
-              bundle exec jekyll build --future
-            "
+      
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 3.2
+          bundler-cache: true
 
-      - name: Deploy to test branch (gh-pages-test)
+      
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      
+      - name: Install Ruby and npm dependencies
+        run: |
+          cd site
+          bundle install
+          npm install
+
+      
+      - name: Build Jekyll site
+        run: |
+          cd site
+          JEKYLL_ENV=production bundle exec jekyll build
+
+      
+      - name: Deploy to GitHub Pages (test branch)
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./site/_site
           publish_branch: gh-pages-test
-          commit_message: '🧪 Test build with stable Ruby image'

@@ -1,15 +1,16 @@
-name: Build Jekyll site
+name: Build and Deploy Jekyll (Test)
 
 on:
   push:
-    branches: [ "main" ]
+    branches: [ "main" ]  # or your default branch
 
 jobs:
-  build:
+  build-deploy-test:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
@@ -22,7 +23,15 @@ jobs:
           cd site
           bundle install
 
-      - name: Build Jekyll site
+      - name: Build Jekyll site with Bookshop
         run: |
           cd site
-          bundle exec jekyll build --future
+          JEKYLL_ENV=production bundle exec jekyll build
+
+      - name: Deploy to test branch (gh-pages-test)
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./site/_site
+          publish_branch: gh-pages-test
+          commit_message: "🧪 Test build from GitHub Actions"

@@ -20,10 +20,11 @@ jobs:
             ruby:3.2-bullseye /bin/bash -c "
               apt-get update &&
               apt-get install -y build-essential nodejs npm git &&
-              gem install bundler jekyll &&
+              gem install bundler jekyll ffi &&
               cd /srv/jekyll &&
+              bundle config set path 'vendor/bundle' &&
               bundle install &&
-              jekyll build --future
+              bundle exec jekyll build --future
             "
 
       - name: Deploy to test branch (gh-pages-test)

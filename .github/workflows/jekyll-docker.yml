@@ -1,9 +1,7 @@
-name: Jekyll site CI
+name: Build Jekyll site
 
 on:
   push:
-    branches: [ "main" ]
-  pull_request:
     branches: [ "main" ]
 
 jobs:
@@ -13,18 +11,18 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Build the Jekyll site (in site folder)
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 3.1
+          bundler-cache: true
+
+      - name: Install dependencies
         run: |
-          docker run \
-            -v ${{ github.workspace }}/site:/srv/jekyll \
-            -v ${{ github.workspace }}/site/_site:/srv/jekyll/_site \
-            jekyll/builder:latest /bin/bash -c "
-              cd /srv/jekyll &&
-              chmod -R 777 . &&
-              gem uninstall -aIx sass-embedded google-protobuf || true &&
-              gem install sass-embedded -v 1.63.6 &&
-              gem install google-protobuf -v 3.24.4 &&
-              gem install jekyll-bookshop &&
-              bundle install &&
-              jekyll build --future
-            "
+          cd site
+          bundle install
+
+      - name: Build Jekyll site
+        run: |
+          cd site
+          bundle exec jekyll build --future

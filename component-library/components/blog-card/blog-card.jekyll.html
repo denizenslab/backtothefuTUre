@@ -22,7 +22,7 @@
       {% endif %} -->
 
       <h2 class="{{c}}__title">
-        <a href="{{ include.post.url }}">{{ include.post.title }}</a>
+<a href="{{ include.post.url | relative_url }}">{{ include.post.title }}</a>
       </h2>
 
       <p class="{{c}}__excerpt">

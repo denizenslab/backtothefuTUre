@@ -16,8 +16,8 @@ layout: default
           
               {% if post.image %}
               <div class="image-wrap">
-                <a class="article__image" href="{{ post.url }}">
-                  <img loading="lazy" src="{{ post.image }}" alt="{{ post.title }}">
+                <a class="article__image" href="{{ post.url | relative_url }}">
+                  <img loading="lazy" src="{{ post.image | relative_url }}" alt="{{ post.title }}">
                 </a>
               </div>
               {% endif %}

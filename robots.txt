@@ -1,1 +1,1 @@
-Sitemap: /sitemap.xml
+Sitemap: https://denizenslab.github.io/backtothefuTUre/sitemap.xml

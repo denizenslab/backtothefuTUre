@@ -2,7 +2,7 @@
 # date: 2018-11-13 12:01:35
 title: Prof. Dr.-Ing. habil. Jens-Uwe Repke
 description: >-
-  Prof. Dr.-Ing. Jens-Uwe Repke ist Leiter des Fachgebiets Dynamik und Betrieb technischer Anlagen an der TU Berlin. Die Verbindung von optimalem Design und Betrieb nachhaltiger Prozesse der Chemie- und Energietechnik ist fachlicher Kern seiner Forschungsarbeiten, wobei ihm die enge Verzahnung von theoretischer und experimenteller Forschung sehr wichtig ist. Er hat an der TU Berlin seine wissenschaftliche Ausbildung erhalten und war Professor für „Thermische Verfahrenstechnik“ an der TU Bergakademie Freiberg. Durch verschiedene Forschungsaufenthalte und vielfältige Kooperationsprojekte ist er in seinem Wissenschaftsgebiet bestens international vernetzt.
+  Prof. Dr.-Ing. Jens-Uwe Repke ist Leiter des Fachgebiets Dynamik und Betrieb technischer Anlagen an der TU Berlin. Die Verbindung von optimalem Design und Betrieb nachhaltiger Prozesse der Chemie- und Energietechnik ist fachlicher Kern seiner Forschungsarbeiten, wobei ihm die enge Verzahnung von theoretischer und experimenteller Forschung sehr wichtig ist. Er hat an der TU Berlin seine wissenschaftliche Ausbildung erhalten und war Professor für „Thermische Verfahrenstechnik“ an der TU Bergakademie Freiberg. Durch verschiedene Forschungsaufenthalte und vielfältige Kooperationsprojekte ist er in seinem Wissenschaftsgebiet bestens international vernetzt.<br><br>
 
 image: /images/JensUweRepke_Copyright_AngelikaSchwaff.jpg
 ---

@@ -2,7 +2,7 @@
 # date: 2018-11-12 12:01:35
 title: Prof. Eike Roswag-Klinge, Dipl.-Ing. Architekt BDA
 description: >-
-  Prof. Eike Roswag-Klinge ist Leiter des Natural Building Lab, FG Konstruktives Entwerfen und Klimagerechte Architektur an der TU Berlin und Mitgründer von ZRS Architekten Ingenieure. Er forscht meist in Reallaboren im Bauwesen und Forschungsverbünden zu LowTech-Gebäudesystemen aus Naturbaustoffen und menschlicher, kreislaufgerechter Architektur. Er engagiert sich für agile Organisationsstrukturen und Diversität in allen Arbeitsbereichen der Wissenschaft und Praxis. <br><br><br><br><br>
+  Prof. Eike Roswag-Klinge ist Leiter des Natural Building Lab, FG Konstruktives Entwerfen und Klimagerechte Architektur an der TU Berlin und Mitgründer von ZRS Architekten Ingenieure. Er forscht meist in Reallaboren im Bauwesen und Forschungsverbünden zu LowTech-Gebäudesystemen aus Naturbaustoffen und menschlicher, kreislaufgerechter Architektur. Er engagiert sich für agile Organisationsstrukturen und Diversität in allen Arbeitsbereichen der Wissenschaft und Praxis. <br><br><br><br><br><br>
 image: /images/EikeRoswagKlinge_Copyright_AngelikaSchwaff.jpg
 ---
 Image Copyright: Angelika Schwaff

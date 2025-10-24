@@ -2,9 +2,10 @@
 # date: 2018-11-12 12:01:35
 title: Prof. Eike Roswag-Klinge, Dipl.-Ing. Architekt BDA
 description: >-
-  Prof. Dr. Eike Roswag-Klinge ist Leiter des Natural Building Lab, FG Konstruktives Entwerfen und Klimagerechte Architektur an der TU Berlin und Mitgründer von ZRS Architekten Ingenieure. Er forscht meist in Reallaboren im Bauwesen und Forschungsverbünden zu LowTech-Gebäudesystemen aus Naturbaustoffen und menschlicher, kreislaufgerechter Architektur. Er engagiert sich für agile Organisationsstrukturen und Diversität in allen Arbeitsbereichen der Wissenschaft und Praxis. <br><br><br><br><br>
-image: /images/eike.jpg
+  Prof. Eike Roswag-Klinge ist Leiter des Natural Building Lab, FG Konstruktives Entwerfen und Klimagerechte Architektur an der TU Berlin und Mitgründer von ZRS Architekten Ingenieure. Er forscht meist in Reallaboren im Bauwesen und Forschungsverbünden zu LowTech-Gebäudesystemen aus Naturbaustoffen und menschlicher, kreislaufgerechter Architektur. Er engagiert sich für agile Organisationsstrukturen und Diversität in allen Arbeitsbereichen der Wissenschaft und Praxis. <br><br><br><br><br>
+image: /images/EikeRoswagKlinge_Copyright_AngelikaSchwaff.jpg
 ---
+Image Copyright: Angelika Schwaff
 
 Eike Roswag-Klinge hat 2017 das Natural Building Lab (NBL), FG Konstruktives Entwerfen und Klimagerechte Architektur an der Technischen Universität Berlin gegründet und ist dort seit 2021 geschäftsführender Direktor des Institutes für Architektur. 2003 hat er das Büros ZRS Architekten Ingenieuren mitgegründet und ist heute Teil der Geschäftsführung. Seit 2025 ist er Präsident der Architektenkammer Berlin im Ehrenamt. 
 
@@ -20,12 +21,8 @@ Eike Roswag-Klinge und die Teams in denen er arbeitet, wurden u.a. mit dem Aga K
 - Reallabore im Bauwesen als Raum für Sprunginnovationen in Bauwesen 
 - Naturbaumaterialien und -systeme wie Holz, Lehm, Bambus, Naturfasern 
 
-
-## Zitate – Eike Roswag-Klinge­
->„Die TU Berlin verfügt über ein sehr fundiertes Wissen und ambitionierte Menschen, um die Herausforderungen Ihrer baulichen Infrastruktur intelligent zu lösen.“
-
->„Reallabore wie das TULIUM der TU Berlin dienen dazu, große Fragen im Bausektor zu lösen und den Campus zum Vorbild der Transformation zu machen voranzutreiben.“   
-
->„Kollegiales, agiles Arbeiten mit flachen Hierarchien ermöglicht eigenständiges Handeln und fördert die Wirksamkeit aller Akteure an der Universität.“  
-
->„Die Reduktion von Bedarfen und der Komplexität der Anforderungen ermöglicht ein einfaches adaptives LowTech-Bauen im Bestand und eine neue ressourceneffektive, menschliche Architektur.“ 
+## Zitate – Prof. Eike Roswag-Klinge
+- „Die TU Berlin verfügt über ein sehr fundiertes Wissen und ambitionierte Menschen um die Herausforderungen Ihrer baulichen Infrastruktur intelligent zu lösen.“
+- „Reallabore wie das Tulium der TU Berlin dienen dazu große Fragen im Bausektor zu lösen und den Campus zum Vorbild der Transformation zu machen voranzutreiben.“   
+- „Kollegiales, agiles Arbeiten mit flachen Hierarchien ermöglicht eigenständiges Handeln und fördert die Wirksamkeit aller Akteure an der Universität.“  
+- „Die Reduktion von Bedarfen und der Komplexität der Anforderungen ermöglicht ein einfaches adaptives LowTech Bauen im Bestand und eine neue ressourceneffektive, menschliche Architektur.“ 

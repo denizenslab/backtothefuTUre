@@ -2,13 +2,13 @@
 # date: 2025.10.06
 title: Prof. Dr. Fatma Deniz
 description: >-
-  Prof. Dr. Fatma Deniz ist Vizepräsidentin für Digitalisierung und Nachhaltigkeit und Leiterin des Fachgebiets Sprache und Kommunikation in Biologischen und Künstlichen Systemen an der TU Berlin. Ihre Forschung verbindet Informatik, Neurowissenschaften und Datenwissenschaft. Sie engagiert sich für nachhaltige digitale Infrastrukturen, verantwortungsvolle KI und Diversität in der Wissenschaft. Zuvor arbeitete sie an der University of California, Berkeley, und gewann internationale Forschungsförderungen, u. a. einen ERC Starting Grant.<br><br><br><br>
+  Prof. Dr. Fatma Deniz ist Vizepräsidentin für Digitalisierung und Nachhaltigkeit und Leiterin des Fachgebiets Sprache und Kommunikation in Biologischen und Künstlichen Systemen an der TU Berlin. Ihre Forschung verbindet Informatik, Neurowissenschaften und Datenwissenschaft. Sie engagiert sich für nachhaltige digitale Infrastrukturen, verantwortungsvolle KI und Diversität in der Wissenschaft. Zuvor arbeitete sie an der University of California, Berkeley, und konnte internationale Forschungsförderungen einwerben, u. a. einen ERC Starting Grant.<br><br><br><br>
 tags:
 subtitle: Vizepräsidentin für Digitalisierung und Nachhaltigkeit, Technische Universität Berlin
-image: /images/fatma.jpg
+image: /images/FatmaDeniz_Copyright_AngelikaSchwaff.jpg
 ---
 
-<a href="www.fatmanet.com">Website</a> / <a href="https://tu-berlin.de/denizenslab">Fachgebietswebseite</a> / <a href="www.linkedin.com/in/fatma-deniz">LinkedIn</a>
+<a href="https://www.fatmanet.com">Website</a> / <a href="https://denizenslab.github.io/">Fachgebietswebseite</a> / <a href="https://www.linkedin.com/in/fatma-deniz">LinkedIn</a> <br>Image Copyright: Angelika Schwaff
 
 Prof. Dr. Fatma Deniz ist Vizepräsidentin für Digitalisierung und Nachhaltigkeit sowie Professorin für Informatik an der Technischen Universität Berlin. In Forschung und Lehre verbindet sie Informatik, Neurowissenschaften und Datenwissenschaft, mit einem besonderen Fokus auf Sprachverarbeitung im Gehirn und in technischen Systemen. Dabei setzt sie auf offene und reproduzierbare Wissenschaft sowie den verantwortungsvollen Einsatz von Künstlicher Intelligenz. Als Vizepräsidentin treibt sie die digitale Transformation der TU Berlin und den Aufbau nachhaltiger Forschungsdateninfrastrukturen innerhalb der Berlin University Alliance voran. Sie richtet ihre Arbeit an den Nachhaltigen Entwicklungsziele der Vereinten Nationen.
 Zuvor war sie am Helen Wills Neuroscience Institute und am Berkeley Institute for Data Science der University of California, Berkeley, tätig. Dort leitete sie Projekte zu Sprachrepräsentationen im Gehirn, engagierte sich für Open Science und entwickelte innovative Lehrformate in Data Science.
@@ -16,16 +16,15 @@ Neben ihrer wissenschaftlichen Arbeit setzt sich Deniz für Diversität ein. Etw
 
 ## Arbeits- und Forschungsschwerpunkte
 - Sprachverarbeitung im Gehirn und in technischen Systemen
-- Reproduzierbare Forschung, offene Wissenschaft, Lehre in Datenwissenschaften
+- Reproduzierbare Forschung, offene Wissenschaft, Lehre in Data Science
 - Verantwortlicher Einsatz von Künstlicher Intelligenz, Transfer zwischen Wissenschaft und Gesellschaft
 - Forschungsdateninfrastruktur innerhalb TU Berlin und Berlin University Alliance
 - Nachhaltigen Entwicklungsziele der Vereinten Nationen als Kompass für KI
 
 ## Zitate – Prof. Dr. Fatma Deniz
-> „Mir ist wichtig, dass Digitalisierung den Menschen dient: Sie soll entlasten, Transparenz schaffen und nachhaltig wirken.“
-
-> „Klimaschutz beginnt für mich schon im Serverraum. Eine kluge Rechenzentrumsstrategie spart Energie, Kosten und Zeit und schafft Kapazität für Forschung.“
-
-> „Ich bin überzeugt: Exzellenz entsteht dort, wo Vielfalt, Daten und Mut zusammenkommen.“
-
-> „Die Nachhaltigen Entwicklungsziele der Vereinten Nationen sind für mich ein Kompass. Wir orientieren Forschung, Lehre, Transfer und die Organisation der Universität daran – nachvollziehbar und messbar.“
+- „Führung bedeutet für mich nicht Macht, sondern Machen und Verantwortung: Zuhören, voneinander lernen, Räume schaffen, in denen Ideen wachsen können.“
+- „Für mich bedeutet ein Bekenntnis zu Exzellenz: Wir wollen zu den Besten gehören, als Forschende und als Lehrende und uns dadurch international profilieren und wettbewerbsfähig machen.“
+- „Mir ist wichtig, dass Digitalisierung den Menschen dient: Sie soll entlasten, Transparenz schaffen und nachhaltig wirken.“
+- „Klimaschutz beginnt für mich schon im Serverraum. Eine kluge Rechenzentrumsstrategie spart Energie, Kosten und Zeit und schafft Kapazität für Forschung.“
+- „Ich bin überzeugt: Exzellenz entsteht dort, wo Vielfalt, Daten und Mut zusammenkommen.“
+- „Die Nachhaltigen Entwicklungsziele der Vereinten Nationen sind für mich ein Kompass. Wir orientieren Forschung, Lehre, Transfer und die Organisation der Universität daran.“

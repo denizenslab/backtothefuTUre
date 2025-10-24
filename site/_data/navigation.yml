@@ -1,16 +1,10 @@
-logo_image: '/images/logo.svg' # You can add own logo. For example '/images/logo.png'.
+logo_image: '/images/backtothefuture-logo.png' # You can add own logo. For example '/images/logo.png'.
 
 menu__settings:
   menu__items:
     - title: 'Home'
       url: '/'
     - title: 'Programm'
-      url: '/programm/' 
+      url: '/programm/'
     - title: 'Team'
       url: '/team/'
-    # - title: 'Pages'
-    #   submenu:
-    #   - url: '/about/'
-    #     title: 'About'
-    #   - url: '/elements/'
-    #     title: 'Elements'

@@ -1,7 +1,7 @@
 ---
 title: "Zuerst: Zukunftsfähigkeit sichern"
 subtitle: 
-image: '/images/image2_Regenbogenflagge_copyright_TUBerlin.jpg'
+image: 'images/image2_Regenbogenflagge_copyright_TUBerlin.jpg'
 ---
 
 <strong>Ausgangssituation</strong>:

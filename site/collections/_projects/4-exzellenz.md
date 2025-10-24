@@ -2,7 +2,7 @@
 _schema: default
 title: Exzellenz in Forschung, Lehre, Transfer
 subtitle:
-image: '/images/image4_Intensivmesskampagne_Stadtklima_im_Wandel_copyright_TUBerlin.jpg'
+image: 'images/image4_Intensivmesskampagne_Stadtklima_im_Wandel_copyright_TUBerlin.jpg'
 ---
 ## Exzellenz in Forschung
 

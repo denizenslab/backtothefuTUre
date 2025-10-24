@@ -2,7 +2,7 @@
 # date: 2021-01-08 06:20:35 +0300
 title: Leadership, Verantwortung und Gestaltung
 subtitle: 
-image: '/images/image3_copyright_NicoleBaster_unsplash.jpg'
+image: 'images/image3_copyright_NicoleBaster_unsplash.jpg'
 ---
 
 <strong>Ausgangssituation</strong>: 

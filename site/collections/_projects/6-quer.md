@@ -2,7 +2,7 @@
 # date: 2025-10-11 07:40:35 +0300
 title: "Querschnittsthemen: Nachhaltigkeit – Internationales – Vielfalt, Partizipation und Kommunikation"
 subtitle: 
-image: '/images/image6_Campusleben_copyright_TUBerlin.jpg'
+image: 'images/image6_Campusleben_copyright_TUBerlin.jpg'
 ---
 
 <strong>Ausgangssituation</strong>: 

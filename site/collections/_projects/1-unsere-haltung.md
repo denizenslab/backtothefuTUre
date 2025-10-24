@@ -2,7 +2,7 @@
 # date: 1
 title: Unsere Haltung
 subtitle: 
-image: '/images/image1_Pexels_copyright_Fauxels.jpg'
+image: 'images/image1_Pexels_copyright_Fauxels.jpg'
 ---
 
 - <strong>Verlässlichkeit</strong>: Wir schaffen Verlässlichkeit, indem wir Absprachen, Abläufe und Zeitpläne offen kommunizieren und konsequent einhalten. So entsteht Vertrauen - und Vertrauen schafft Lust auf Mitgestaltung.

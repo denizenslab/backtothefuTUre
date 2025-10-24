@@ -2,7 +2,7 @@
 # date: 2021-01-10 07:30:35 +0300
 title: Digitalisierung und nachhaltige Campus-Infrastruktur
 subtitle: 
-image: '/images/image5_copyright_ChatGPTImage_9. Okt. 2025, 07_52_19_2.jpg'
+image: 'images/image5_copyright_ChatGPTImage_9. Okt. 2025, 07_52_19_2.jpg'
 ---
 
 <strong>Ausgangssituation</strong>: 

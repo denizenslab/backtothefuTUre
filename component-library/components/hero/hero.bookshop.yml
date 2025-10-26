@@ -25,7 +25,7 @@ blueprint:
 preview:
   title: "Willkommen zu back to the fuTUre: 2030+"
   description_html: Das Programm zur Präsidentschaftswahl 2025 an der TU Berlin für Fatma Deniz und Team.
-  image: /images/01.jpg
+  image: /images/fatma.jpg
   image_alt: Group picture
   cta_button: Get in touch
   cta_button_link: "#contact"

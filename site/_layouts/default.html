@@ -11,6 +11,19 @@
 
     {% include header.html %}
 
+<!-- header info -->
+
+<section class="section ad-section">
+  <div class="container">
+    <div class="c-testimonial-card__content" style="font-weight:bold">
+      
+        Townhall Meetings
+      
+    </div>
+  </div>
+</section>
+<!-- header info -->
+
     {{ content }}
 
     <!--
@@ -19,6 +32,30 @@
     -->
     {% bookshop_include page content_blocks=page.content_blocks page_theme=page.page_theme %}
 
+<!-- instagram section -->
+
+<div class="instagram-embed-center">
+  <blockquote class="instagram-media" 
+      data-instgrm-permalink="https://www.instagram.com/proffatmadeniz/" 
+      data-instgrm-version="14">
+  </blockquote>
+</div>
+
+<script async src="//www.instagram.com/embed.js"></script>
+
+<style>
+.instagram-embed-center {
+  display: flex;
+  justify-content: center; /* centers horizontally */
+}
+.instagram-media {
+  margin: 0 !important; /* remove Instagram’s default margins */
+}
+</style>
+<!-- instagram section -->
+
+
+    
     <div class="top" title="Top"><i class="ion ion-ios-arrow-up"></i></div>
 
     {% include footer.html %}
